@@ -9,21 +9,23 @@ I make Indie Games in Unity using **C#** and mobile applications using **Swift**
 
 🎮 My current/finished games:\
 ➼ ["No Time To Shine"](https://atymtima.itch.io/no-time-to-shine)\
-➼ ["Roll Control"](https://www.youtube.com/watch?v=25bAOAxzFoY&list=PLNqhTV8777VFIH5q5tfV7m1Zn4TNTjg_d) *in progress*\
+![](Images/no_time_to_shine.png)
+➼ ["Roll Control"](https://www.youtube.com/watch?v=25bAOAxzFoY&list=PLNqhTV8777VFIH5q5tfV7m1Zn4TNTjg_d) *in progress*
+![](Images/roll_control.png)
 
 📱 My current/finished mobile applications:\
-➼ *Soon*\
+➼ *Soon*
 
 💻 Study and education:\
 ➼ Graduated from the Nazarbayev Intellectual School of Physics and Mathematics in Almaty (2019)\
 ➼ Getting the Bachelor Degree in The Hong Kong Polytechnic University (2023) 🇭🇰\
-➼ Completed the 7-week app development bootcamp nFactorial Incubator 2018\
+➼ Completed the 7-week app development bootcamp nFactorial Incubator 2018
 
 ⚒️ Additional Skills:\
 ➼ Video-Editing\
-➼ Zero-sleep programming\
+➼ Zero-sleep programming
 
 📞 Where to find me at:\
 ➼ [YouTube channel](https://www.youtube.com/channel/UCOC6KNeqE7RAaU0kp_Z157w/videos)\
 ➼ Main email address: kidir.timur@gmail.com\
-➼ Games related email address: atymtima.games@gmail.com\
+➼ Games related email address: atymtima.games@gmail.com
