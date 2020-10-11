@@ -10,7 +10,7 @@ I make Indie Games in Unity using **C#** and mobile applications using **Swift**
 🎮 My current/finished games:\
 ➼ ["No Time To Shine"](https://atymtima.itch.io/no-time-to-shine)\
 <!--![](Images/no_time_to_shine.png)-->
-<img src="https://github.com/AtymTima/AtymTima/tree/main/Images/no-time-to-shine.png" width="96" height="60">
+<img src="https://github.com/AtymTima/AtymTima/tree/main/Images/no_time_to_shine.png" width="96" height="60">
 ➼ ["Roll Control"](https://www.youtube.com/watch?v=25bAOAxzFoY&list=PLNqhTV8777VFIH5q5tfV7m1Zn4TNTjg_d) *in progress*
 <!--![](Images/roll_control.png){:height="100px" width="126px"} -->
 <img src="https://github.com/AtymTima/AtymTima/tree/main/Images/roll_control.png" width="126" height="100">
