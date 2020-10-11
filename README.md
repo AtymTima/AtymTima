@@ -9,9 +9,9 @@ I make Indie Games in Unity using **C#** and mobile applications using **Swift**
 
 🎮 My current/finished games:\
 ➼ ["No Time To Shine"](https://atymtima.itch.io/no-time-to-shine)\
-![](Images/no_time_to_shine.png)
+![](Images/no_time_to_shine.png){:height="60px" width="96px"}
 ➼ ["Roll Control"](https://www.youtube.com/watch?v=25bAOAxzFoY&list=PLNqhTV8777VFIH5q5tfV7m1Zn4TNTjg_d) *in progress*
-![](Images/roll_control.png)
+![](Images/roll_control.png){:height="100px" width="126px"}
 
 📱 My current/finished mobile applications:\
 ➼ *Soon*
