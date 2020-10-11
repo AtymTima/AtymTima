@@ -3,6 +3,7 @@
 <!--
 **AtymTima/AtymTima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+![](Images/github_banner.png)
 
 I make Indie Games in Unity using **C#** and mobile applications using **Swift**. I am strongly passioned in sharing my knowledge with other developers and inspire them to challenge themselves and become better every day. That's why I have a **YouTube channel** related to [Indie Game Development](https://www.youtube.com/channel/UCOC6KNeqE7RAaU0kp_Z157w/videos). 
 
